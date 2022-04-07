@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Colm
-- 👀 Hobbyist / beginner web developer. Current Dunning Kruger level = approaching Valley of Despair
-- 🌱 I’m currently learning JavaScript and Nodejs.
+- 👀 Hobbyist / beginner web developer. 
+- 🌱 I’m currently learning JavaScript and Nodejs. var currentDunningKrugerLevel = "approaching Valley of Despair";
 - 💞️ I’m looking to reach out to fellow learners and noobs.
 - 📫 Reach me here...I've deleted all the normal social media channels - and enjoying the silence :)
 
