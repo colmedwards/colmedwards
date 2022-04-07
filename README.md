@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Colm
-- 👀 I’m interested in changing careers from ccivil engineering to a data analyst role, and am actively studying to achieve this. Over the next few months I hope to have the beginnings of a DA portfolio here.
-- 🌱 I’m currently learning python and sql - mostly from DataQuest and Coursera. Tableau sooon.
-- 💞️ I’m looking to reach out too fellow learners and noobs, and maybe eventually a mentor.
+- 👀 Hobbyist / beginner web developer. Current Dunning Kruger level = approaching Valley of Despair
+- 🌱 I’m currently learning JavaScript and Nodejs.
+- 💞️ I’m looking to reach out to fellow learners and noobs.
 - 📫 Reach me here...I've deleted all the normal social media channels - and enjoying the silence :)
 
 <!---
